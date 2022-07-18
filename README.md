@@ -1,5 +1,5 @@
 # certificates
-###online course Certificates  provided by Sololearn will be uploaded in this repo
+###online course Certificates will be uploaded in this repo
 
 ![python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
