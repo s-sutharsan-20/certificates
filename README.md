@@ -74,3 +74,6 @@ VERIFY THE CERTIFICATES USING BELOW LINKS:
 8) https://www.sololearn.com/certificates/course/en/20162416/1157/landscape/png
 
 9) https://www.sololearn.com/certificates/course/en/20162416/1051/landscape/png
+
+10) https://thedigitaladda.com/category/quiz/
+    Ref no :DA/AI/22/1715
