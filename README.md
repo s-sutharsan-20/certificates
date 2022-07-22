@@ -77,3 +77,7 @@ VERIFY THE CERTIFICATES USING BELOW LINKS:
 
 10) https://thedigitaladda.com/category/quiz/
     Ref no :DA/AI/22/1715
+
+11) https://ai-for-all.in/#/offline-users/badge?userType=all-users&id=U2FsdGVkX1s1L2a3S4hYXBe6MjVRNl2nuNKe1wtRqlm83hqlYAIe1Q2u3A4l
+
+12) https://ai-for-all.in/#/offline-users/badge?userType=all-users&id=U2FsdGVkX1s1L2a3S4hYXBe6MjVRNl2nuNKe1wtRqlm83hqlYAIe1Q2u3A4l
