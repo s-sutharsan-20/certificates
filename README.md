@@ -82,5 +82,4 @@ VERIFY THE CERTIFICATES USING BELOW LINKS:
 
 12) https://ai-for-all.in/#/offline-users/badge?userType=all-users&id=U2FsdGVkX1s1L2a3S4hYXBe6MjVRNl2nuNKe1wtRqlm83hqlYAIe1Q2u3A4l
 
-13) {"@context":["https://www.w3.org/2018/credentials/v1","https://raw.githubusercontent.com/Abhishek-Govula/sunbird-rc-templates/main/course"],"type":["VerifiableCredential"],"issuanceDate":"2021-08-27T10:57:57.237Z","credentialSubject":{"type":"Person","issuedTo":"Sutharsan .S","course":"Basics of Python","completedOn":"2022-07-23T10:54:31Z"},"issuer":"did:web:sunbirdrc.dev/vc/skill","proof":{"type":"Ed25519Signature2018","created":"2022-07-23T11:08:55Z","verificationMethod":"did:india","proofPurpose":"assertionMethod","jws":"eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..M5ZAwrANbd9zAYL6W_XC_jjxQ4aVYu0FOi4LQW8JjOzHblg6GqpqFEvz1O0jTtKoSr85Z4jETHpFx8apj06GDA"}}
-https://www.w3.org/2018/credentials/v1
+13) 
