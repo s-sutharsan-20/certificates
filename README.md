@@ -82,4 +82,6 @@ VERIFY THE CERTIFICATES USING BELOW LINKS:
 
 12) https://ai-for-all.in/#/offline-users/badge?userType=all-users&id=U2FsdGVkX1s1L2a3S4hYXBe6MjVRNl2nuNKe1wtRqlm83hqlYAIe1Q2u3A4l
 
-13) 
+13) https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013204562301591552112_shared/analytics
+
+    https://verify.onwingspan.com
