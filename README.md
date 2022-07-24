@@ -94,3 +94,7 @@ VERIFY THE CERTIFICATES USING BELOW LINKS:
 14) https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0135015680028999689486/overview
 
 15) https://www.kaggle.com/learn/certification/ssutharsan20/python
+
+16) https://courses.cognitiveclass.ai/certificates/5996e2d317964b91ab319800887559f6
+
+17) https://www.credly.com/badges/475a0c1d-555e-4b77-a3de-b65d29241ec1/public_url
