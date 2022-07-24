@@ -92,3 +92,5 @@ VERIFY THE CERTIFICATES USING BELOW LINKS:
     https://skillsoft.digitalbadges.skillsoft.com/17f843bf-5d18-43a0-9fe6-b6ded2222b5c
 
 14) https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0135015680028999689486/overview
+
+15) https://www.kaggle.com/learn/certification/ssutharsan20/python
