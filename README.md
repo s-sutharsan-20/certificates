@@ -90,3 +90,5 @@ VERIFY THE CERTIFICATES USING BELOW LINKS:
     
 14) https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55266096
     https://skillsoft.digitalbadges.skillsoft.com/17f843bf-5d18-43a0-9fe6-b6ded2222b5c
+
+14) https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0135015680028999689486/overview
