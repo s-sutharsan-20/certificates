@@ -98,3 +98,6 @@ VERIFY THE CERTIFICATES USING BELOW LINKS:
 16) https://courses.cognitiveclass.ai/certificates/5996e2d317964b91ab319800887559f6
 
 17) https://www.credly.com/badges/475a0c1d-555e-4b77-a3de-b65d29241ec1/public_url
+
+18) https://www.guvi.in/verify-certificate?id=B912tk64X75c1w8b72
+    Guvi certificate id - B912tk64X75c1w8b72
